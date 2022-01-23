@@ -56,5 +56,5 @@ body {
   }
   100% {
     transform: rotateX(64deg) scale(0.55, 0.3) translateY(-400vh);
-  }`
+  }
 }
